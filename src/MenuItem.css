@@ -1,0 +1,13 @@
+.MenuItem {
+  width: 100%;
+  height: fit-content;
+  padding: 1rem;
+  background-color: tomato;
+  margin-top: 0;
+}
+.MenuItem a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  padding: 0.5rem;
+}
