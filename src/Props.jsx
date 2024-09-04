@@ -2,7 +2,6 @@ function Props({
   name,
   fatherName,
   siblings = ["Raj Mishra ", "Aman Shukla "],
-  study = { a: "B.Tech", b: "BCA" },
 }) {
   return (
     <div className="info">
